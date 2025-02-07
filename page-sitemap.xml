@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/lynn/</loc>
-		<lastmod>2025-02-06T01:24:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/brockton/</loc>
-		<lastmod>2025-02-06T01:24:25+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/new-bedford/</loc>
-		<lastmod>2025-02-06T01:24:25+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/quincy/</loc>
-		<lastmod>2025-02-06T01:24:25+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:22+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/springfield/</loc>
-		<lastmod>2025-02-06T01:24:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/cambridge/</loc>
-		<lastmod>2025-02-06T01:24:24+00:00</lastmod>
+		<loc>/lynn/</loc>
+		<lastmod>2025-02-06T23:57:22+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/lowell/</loc>
-		<lastmod>2025-02-06T01:24:24+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:21+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/chicopee/</loc>
-		<lastmod>2025-02-06T01:24:23+00:00</lastmod>
+		<loc>/brockton/</loc>
+		<lastmod>2025-02-06T23:57:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/new-bedford/</loc>
+		<lastmod>2025-02-06T23:57:21+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/springfield/</loc>
+		<lastmod>2025-02-06T23:57:20+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/cambridge/</loc>
+		<lastmod>2025-02-06T23:57:20+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/worcester/</loc>
-		<lastmod>2025-02-06T01:24:23+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/pittsfield/</loc>
-		<lastmod>2025-02-06T01:24:22+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:19+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/brookline/</loc>
-		<lastmod>2025-02-06T01:24:22+00:00</lastmod>
+		<loc>/chicopee/</loc>
+		<lastmod>2025-02-06T23:57:19+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/taunton/</loc>
-		<lastmod>2025-02-06T01:24:22+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/haverhill/</loc>
-		<lastmod>2025-02-06T01:24:21+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/malden/</loc>
-		<lastmod>2025-02-06T01:24:21+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:18+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/somerville/</loc>
-		<lastmod>2025-02-06T01:24:20+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/lawrence/</loc>
-		<lastmod>2025-02-06T01:24:20+00:00</lastmod>
+		<loc>/brookline/</loc>
+		<lastmod>2025-02-06T23:57:18+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/framingham/</loc>
-		<lastmod>2025-02-06T01:24:20+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/haverhill/</loc>
+		<lastmod>2025-02-06T23:57:17+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/somerville/</loc>
+		<lastmod>2025-02-06T23:57:16+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/lawrence/</loc>
+		<lastmod>2025-02-06T23:57:16+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fall-river/</loc>
-		<lastmod>2025-02-06T01:24:19+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/newton/</loc>
-		<lastmod>2025-02-06T01:24:19+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/boston/</loc>
-		<lastmod>2025-02-06T01:24:18+00:00</lastmod>
+		<lastmod>2025-02-06T23:57:15+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
